@@ -1,59 +1,59 @@
 # MoguStreet
 a vuejs MoguStreet
 
-ÔËĞĞ²é¿´npm run dev
+è¿è¡ŒæŸ¥çœ‹npm run dev
 
 
 |--src
    
-|--assets  ´æ·Å¹«ÓÃcss£¬img
+|--assets  å­˜æ”¾å…¬ç”¨cssï¼Œimg
    
-|--common  ´æ·Å¹«ÓÃ±äÁ¿£¬·½·¨
+|--common  å­˜æ”¾å…¬ç”¨å˜é‡ï¼Œæ–¹æ³•
   
- |--components ´æ·Å¹«ÓÃ×é¼ş
+ |--components å­˜æ”¾å…¬ç”¨ç»„ä»¶
   
- |--network ´æ·Å¹ØÓÚÍøÂçÇëÇóµÄÎÄ¼ş
+ |--network å­˜æ”¾å…³äºç½‘ç»œè¯·æ±‚çš„æ–‡ä»¶
   
- |--router  Â·ÓÉ
+ |--router  è·¯ç”±
    
 |--store
    
-|--views   ´æ·ÅÒ³Ãæ
+|--views   å­˜æ”¾é¡µé¢
       
-|--cart ¹ºÎï³µ
+|--cart è´­ç‰©è½¦
         
   |--childComps
         
-    |--CartBottom.vue ¹ºÎï³µµ×²¿×é¼ş
+    |--CartBottom.vue è´­ç‰©è½¦åº•éƒ¨ç»„ä»¶
         
-    |--CartList.vue   ¹ºÎï³µÁĞ±í
+    |--CartList.vue   è´­ç‰©è½¦åˆ—è¡¨
          
-    |--CarListItem.vue ¹¹³É¹ºÎï³µÁĞ±íµÄÒ»¸ö¸öÉÌÆ·
+    |--CarListItem.vue æ„æˆè´­ç‰©è½¦åˆ—è¡¨çš„ä¸€ä¸ªä¸ªå•†å“
          
-    |--CheckButton.vue µã»÷Ñ¡ÔñµÄ°´Å¥×é¼ş
+    |--CheckButton.vue ç‚¹å‡»é€‰æ‹©çš„æŒ‰é’®ç»„ä»¶
       
-|--category ·ÖÀà
+|--category åˆ†ç±»
         
   |--childComps
          
-      |--TabContent.vue ´«ËÍÊı¾İ
+      |--TabContent.vue ä¼ é€æ•°æ®
           
-      |--TabContentCategory.vue ÁĞ±íÏêÇé
+      |--TabContentCategory.vue åˆ—è¡¨è¯¦æƒ…
           
-      |--TabContentDetail.vue ÁĞ±íÏêÇé
+      |--TabContentDetail.vue åˆ—è¡¨è¯¦æƒ…
           
-      |--TabMenu.vue  ÁĞ±íÄ¿Â¼
+      |--TabMenu.vue  åˆ—è¡¨ç›®å½•
      
-|--Detail  ÏêÇéÒ³
+|--Detail  è¯¦æƒ…é¡µ
       
-|--Home Ö÷Ò³
+|--Home ä¸»é¡µ
          
   |--childComps
          
-     |--HomeSwiper.vue ÂÖ²¥
+     |--HomeSwiper.vue è½®æ’­
           
-     |--FeatureView.vue ´æ·ÅBanner
+     |--FeatureView.vue å­˜æ”¾Banner
          
-     |--RecommendView.vue ·ÖÀàÏêÇé
+     |--RecommendView.vue åˆ†ç±»è¯¦æƒ…
      
-|--profile ¸öÈËÖĞĞÄ
+|--profile ä¸ªäººä¸­å¿ƒ
